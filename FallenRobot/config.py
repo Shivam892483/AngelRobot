@@ -3,9 +3,9 @@ class Config(object):
 
     # Get this value from my.telegram.org/apps
     API_ID = 66
-    API_HASH = "89cf20507d743a6a869817e559d503"
+    API_HASH = "89cf20507d743a817e559d503"
 
-    CASH_API_KEY = "5YJWIIKG5AUQ73A7"  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
+    CASH_API_KEY = "5YJWIIUQ73A7"  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
 
     DATABASE_URL = "postgres://tmugvibv:Wo86qFDdNUczEGZuKI7zEeAxTKJLzItiny.db.elephantsql.com/tmugvibv"  # A sql database url from elephantsql.com
 
@@ -18,7 +18,7 @@ class Config(object):
 
     SUPPORT_CHAT = "Earn_without_investment01"  # Your Telegram support group chat username where your users will go and bother you
 
-    TOKEN = "5953802361:AAGBTNtGeOTOGRW4PqdjuLIiQMcNVIk"  # Get bot token from @BotFather on Telegram
+    TOKEN = "59R"  # Get bot token from @BotFather on Telegram
 
     TIME_API_KEY = "MRW0DO9TOKQB"  # Get this value from https://timezonedb.com/api
 
