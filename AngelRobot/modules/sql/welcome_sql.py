@@ -21,7 +21,7 @@ DEFAULT_WELCOME_MESSAGES = [
     "Welcome {First} I’m proud to be able to call you a member of my group",
     "A new Challenger enters , {First} !",
     "{first} just fell into the chat!",
-    "{first} is back,
+    "{first} is back",
     "Welcome {first}, Avoid Punches if you can!",
     "{first} has joined the battle bus.",
 ]
