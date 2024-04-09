@@ -72,7 +72,7 @@ Press `Ctrl+C` when you're done with editing config and `:wq` to save the config
 - Install tmux to keep running your bot when you close the terminal by :
 `sudo apt install tmux && tmux`
 - Finally run the bot by :
-`python3 -m FallenRobot`
+`python3 -m AngelRobot`
 - For getting out from tmux session
 
 Press `Ctrl+b` and then `d`
